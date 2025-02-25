@@ -19,7 +19,6 @@
 - Bandit
 
 ## Installation
-
 1. Clone this repository and create env
    
 2.pip install -r requirements.txt
